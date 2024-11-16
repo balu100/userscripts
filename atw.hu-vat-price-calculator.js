@@ -6,7 +6,7 @@
 // @author       baluzs
 // @match        https://atw.hu/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/<username>/<repository>/<branch>/<path_to_script>/atw-price-update-vat-livewire.js
+// @updateURL    https://raw.githubusercontent.com/balu100/userscripts/refs/heads/main/atw.hu-vat-price-calculator.js
 // ==/UserScript==
 
 (function() {
